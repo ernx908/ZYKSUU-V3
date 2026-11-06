@@ -118,7 +118,7 @@ def draw_status():
 
 {yellow}╭─────────────────────────────────────────────────────╮
    
-   {green}𝗛𝗜𝗧𝗦: {h_str}{reset} {blue}𝗕𝗔𝗗 𝗜𝗚: {bi_str}{reset} {red}𝗡𝗢 𝗜𝗚: {ni_str}{reset} {yellow}𝗖𝗛𝗘𝗖𝗞𝗘𝗗: {c_str}{reset}
+   {green}𝗛𝗜𝗧𝗦:{h_str}{reset}{blue}𝗕𝗔𝗗 𝗜𝗚:{bi_str}{reset}{red}𝗡𝗢 𝗜𝗚:{ni_str}{reset}{yellow}𝗖𝗛𝗘𝗖𝗞𝗘𝗗:{c_str}{reset}
 {yellow}╰─────────────────────────────────────────────────────╯
 
 {white}  --- 𝗟𝗜𝗩𝗘 𝗖𝗛𝗘𝗖𝗞𝗜𝗡𝗚 𝗦𝗧𝗔𝗧𝗨𝗦 ---{reset}
